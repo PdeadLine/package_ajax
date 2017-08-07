@@ -61,7 +61,7 @@ function ajax(option){
 				data eval("("+text+")");
 			}
 
-			option.callback(data);
+			 option.callback(data);
 		}
 	}
 
